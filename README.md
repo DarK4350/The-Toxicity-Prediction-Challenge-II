@@ -13,9 +13,13 @@ There are 2 files that are required to run & produce the same output as before
 1. Feature Selection using Variance Threshold 
 2. Final Submission
 
+
 **The reason for 2 files~**
 The features were first generated using Variance Threshold and then they were replaced within 'Final Submission', to avoid rerunning the entire process at each run. 
 The generated features have then been added to 'Final Submission' & it was edited as required for the run. 
+You do not need to 'Submit' the 'Variance Threshold' file, a 'Run All' will be sufficient to generate the features. 
+
+
 
 Steps to reproduce code- 
 Methodology on Kaggle- 
